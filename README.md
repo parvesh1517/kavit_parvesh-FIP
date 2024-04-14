@@ -24,7 +24,7 @@ To run the SqueezeIt brand website locally or deploy it to a web server, follow 
 Clone this repository to your local machine using the following command:
 
 Copy code
-git clone -https://github.com/parvesh1517/parvesh_kavit_FIP.git
+git clone -https://github.com/parvesh1517/kavit_parvesh-FIP.git
 
 Open the desired HTML file (e.g., index.html, shop.html, contact.html, about.html) in a web browser or deploy the project to a web server to make it accessible online.
 
